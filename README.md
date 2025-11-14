@@ -51,11 +51,11 @@ This project was built as a rapid prototype to demonstrate UI/UX and core applic
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+    git clone [[https://github.com/PaulImmanuel/Hall-Booking-Flutter-app.git]]([https://github.com/PaulImmanuel/Hall-Booking-Flutter-app.git])
     ```
 2.  Navigate to the project directory:
     ```bash
-    cd YOUR_REPO_NAME
+    cd Hall-Booking-Flutter-app
     ```
 3.  Install the dependencies:
     ```bash
@@ -70,4 +70,4 @@ This project was built as a rapid prototype to demonstrate UI/UX and core applic
 
 ## 📦 APK Release
 
-You can find the latest installable `.apk` file for Android in the [**Releases**](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/releases) section of this repository.
+You can find the latest installable `.apk` file for Android in the [**Releases**]((https://github.com/PaulImmanuel/Hall-Booking-Flutter-app/releases/tag/v1.0.0) section of this repository.
