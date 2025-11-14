@@ -1,4 +1,4 @@
-# Book My Wedding Hall (Flutter Prototype)
+# Book My Wedding Hall 
 
 This is a Flutter-based mobile application prototype for a wedding and matrimonial hall booking service. The app provides a complete, high-fidelity user flow from login to booking, built to match a set of design screenshots.
 
